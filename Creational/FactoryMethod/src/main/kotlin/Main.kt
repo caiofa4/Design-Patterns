@@ -7,4 +7,5 @@ fun main() {
 
     abstractFactory = FactoryB()
     abstractFactory.printObjectName()
+
 }
